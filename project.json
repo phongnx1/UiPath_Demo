@@ -1,7 +1,7 @@
 {
   "name": "Demo_Process",
   "description": "Demo Process",
-  "main": "Main.xaml",
+  "main": "Sequence.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
